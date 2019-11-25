@@ -10,8 +10,8 @@ public class MainTest  {
 	@Test
 	public void test()
 	{
-		//fail("madarna walo");
-		assertEquals(0, 0);
+		fail("madarna walo");
+		//assertEquals(0, 0);
 	}
 	
 	
